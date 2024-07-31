@@ -1,0 +1,37 @@
+body {
+    background-color: lightgrey;
+    margin: 0;
+}
+div {
+    box-sizing: border-box;
+}
+header {
+    background-color: white;
+    padding-top: 5px;
+}
+.block {
+    background-color: white;
+    width: 600px;
+    text-align: left;
+    margin: auto;
+    margin-bottom: 50px;
+    padding-bottom: 1px;
+}
+img {
+    width: 600px;
+}
+.date {
+    color: gray;
+    display: inline-block;
+    width: 18%;
+    text-align: right;
+}
+.title {
+    display: inline-block;
+    width: 75%;
+    text-align: left;
+    margin-left: 15px;
+}
+.description {
+    margin-left: 15px;
+}
